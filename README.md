@@ -1,2 +1,2 @@
 # collatz-conjecture-c
-A program testing the Collatz Conjecture with an starting integer entered by user writting in C
+A program testing the Collatz Conjecture, starting with an integer entered by user writting in C
